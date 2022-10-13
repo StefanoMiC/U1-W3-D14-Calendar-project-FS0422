@@ -38,6 +38,11 @@ h2 {
   border-radius: 6px;
 }
 
+.day:hover {
+  background-color: #15132e;
+  cursor: pointer;
+}
+
 .day h3 {
   text-align: center;
   margin: 0;
